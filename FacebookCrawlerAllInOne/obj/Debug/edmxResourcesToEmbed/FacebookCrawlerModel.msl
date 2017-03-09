@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FBCrawlerV2ModelStoreContainer" CdmEntityContainer="FBCrawlerV2Entities">
+    <EntitySetMapping Name="FACEBOOK_USER">
+      <EntityTypeMapping TypeName="FBCrawlerV2Model.FACEBOOK_USER">
+        <MappingFragment StoreEntitySet="FACEBOOK_USER">
+          <ScalarProperty Name="CHECKED" ColumnName="CHECKED" />
+          <ScalarProperty Name="LANGUAGE" ColumnName="LANGUAGE" />
+          <ScalarProperty Name="GET_TIME" ColumnName="GET_TIME" />
+          <ScalarProperty Name="GET_BY" ColumnName="GET_BY" />
+          <ScalarProperty Name="PROFILE_LINK" ColumnName="PROFILE_LINK" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="INFOes">
+      <EntityTypeMapping TypeName="FBCrawlerV2Model.INFO">
+        <MappingFragment StoreEntitySet="INFO">
+          <ScalarProperty Name="OVERVIEW" ColumnName="OVERVIEW" />
+          <ScalarProperty Name="YEAR_OVERVIEW" ColumnName="YEAR_OVERVIEW" />
+          <ScalarProperty Name="EDUCATION" ColumnName="EDUCATION" />
+          <ScalarProperty Name="LIVING" ColumnName="LIVING" />
+          <ScalarProperty Name="CONTACT_INFO" ColumnName="CONTACT_INFO" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="69c10d3ddc3a4f1fb0de366be16b1eb8" Name="Diagram1">
+        <EntityTypeShape EntityType="FBCrawlerV2Model.FACEBOOK_USER" Width="1.5" PointX="3.9030903335209426" PointY="6.1307040928540308" />
+        <EntityTypeShape EntityType="FBCrawlerV2Model.INFO" Width="1.5" PointX="4.2456498258959732" PointY="23.399570297170229" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

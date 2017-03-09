@@ -1,0 +1,17 @@
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\FacebookCrawlerAllInOne.exe.config
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\FacebookCrawlerAllInOne.exe
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\FacebookCrawlerAllInOne.pdb
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.Properties.Resources.resources
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.csproj.GenerateResource.Cache
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.exe
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.pdb
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.Main.resources
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.F100_GetID.resources
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.F200_Get_Info.resources
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\EntityFramework.dll
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\HtmlAgilityPack.dll
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\EntityFramework.xml
+F:\BKIndex\PRO\2.Crawl Facebook\FacebookCrawler-GetInfomation\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.F300_Send_message.resources
+C:\Users\pham tuan anh\Desktop\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\bin\Debug\FacebookCrawlerAllInOne.exe.config
+C:\Users\pham tuan anh\Desktop\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.exe
+C:\Users\pham tuan anh\Desktop\FacebookCrawlerAllInOne\FacebookCrawlerAllInOne\obj\Debug\FacebookCrawlerAllInOne.pdb

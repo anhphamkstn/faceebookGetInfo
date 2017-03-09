@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FBCrawlerV2Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="FBCrawlerV2ModelStoreContainer">
+    <EntitySet Name="FACEBOOK_USER" EntityType="FBCrawlerV2Model.Store.FACEBOOK_USER" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="INFO" EntityType="FBCrawlerV2Model.Store.INFO" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="FACEBOOK_USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="NAME" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="PROFILE_LINK" Type="nchar" MaxLength="150" />
+    <Property Name="GET_BY" Type="nchar" MaxLength="20" />
+    <Property Name="GET_TIME" Type="datetime" />
+    <Property Name="LANGUAGE" Type="nchar" MaxLength="2" />
+    <Property Name="CHECKED" Type="bit" />
+  </EntityType>
+  <EntityType Name="INFO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="nchar" Nullable="false" MaxLength="20" />
+    <Property Name="CONTACT_INFO" Type="ntext" />
+    <Property Name="LIVING" Type="ntext" />
+    <Property Name="EDUCATION" Type="ntext" />
+    <Property Name="YEAR_OVERVIEW" Type="ntext" />
+    <Property Name="OVERVIEW" Type="ntext" />
+  </EntityType>
+</Schema>
